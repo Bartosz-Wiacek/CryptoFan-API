@@ -1,0 +1,24 @@
+{
+  "Users": [
+    {
+      "Id": 1,
+      "Email": null,
+      "Username": "Bartek"
+    },
+    {
+      "Id": 2,
+      "Email": "Anni@",
+      "Username": "Anni"
+    },
+    {
+      "Id": 3,
+      "Email": "Adsfds@",
+      "Username": "AAA"
+    },
+    {
+      "Id": 4,
+      "Email": "DSADA@",
+      "Username": "BigBunda"
+    }
+  ]
+}
